@@ -1,0 +1,6 @@
+# 19 System Of Things Sot
+
+**Project:** GOXEL
+**Upstream:** https://github.com/guillaumechereau/goxel
+
+Content specific to GOXEL in category VOXELIZATION.

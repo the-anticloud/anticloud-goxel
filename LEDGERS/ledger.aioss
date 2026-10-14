@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: VOXELIZATION/GOXEL
+# records: 5
+# head: 569fe85c97bf3ee9f870e150729d735941ca5711fc115a08627327bdb540463d
+{"digest": "764ab8c9cc248562208363496b88e42fc3e0b0969846a40bac872395a8bfda52", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "74254794a172482a54a6815f5cff758206bc382fc4c8849ab5931524d327f0af", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:55:02Z"}
+{"digest": "945ad37cd63fdea8d4023468d47fd5fef26ad042bbfdefa03f0da6ad043b37c9", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "b8c43cccef78f098971ea8da90ae842039584cab59608f6177069ea10289e057", "prev": "764ab8c9cc248562208363496b88e42fc3e0b0969846a40bac872395a8bfda52", "seq": 1, "ts": "2026-10-09T05:55:02Z"}
+{"digest": "e2b0ceb6e49cd2f337330e3a60a38a78b78eb10c30677ef6af13c38721dd9f1f", "kind": "readme", "path": "README.md", "payload_sha3": "735979877508916d0c444e8ec52f70f04039c389ff53ac7781b5edf87717b2a4", "prev": "945ad37cd63fdea8d4023468d47fd5fef26ad042bbfdefa03f0da6ad043b37c9", "seq": 2, "ts": "2026-10-09T05:55:02Z"}
+{"digest": "e2244dd2de4164a724fb303be1104d7c318e13d949a65aa8bfe8e046ac9de008", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "012479465e4eb74fdaa13165a8e4d877812fae608cb399854f6064dfd353a35d", "prev": "e2b0ceb6e49cd2f337330e3a60a38a78b78eb10c30677ef6af13c38721dd9f1f", "seq": 3, "ts": "2026-10-09T05:55:02Z"}
+{"digest": "569fe85c97bf3ee9f870e150729d735941ca5711fc115a08627327bdb540463d", "kind": "notice", "path": "NOTICE", "payload_sha3": "657a2da4caec349342df532da5336946f79781f025c9be0873224f53b874119d", "prev": "e2244dd2de4164a724fb303be1104d7c318e13d949a65aa8bfe8e046ac9de008", "seq": 4, "ts": "2026-10-09T05:55:02Z"}

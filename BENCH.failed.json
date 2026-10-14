@@ -1,0 +1,9 @@
+{
+  "project": "GOXEL",
+  "category": "VOXELIZATION",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\VOXELIZATION\\GOXEL",
+  "duration_s": 0.2,
+  "returncode": 1,
+  "status": "failed",
+  "reason": "exit 1: 10, in <module>\n    raise SystemExit(main())\n                     ^^^^^^\n  File \"E:\\opencode-work\\tier_agents\\_work\\bench_engine.py\", line 678, in main\n    report = analyse(args.repo, args.name)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"E:\\opencode-work\\tier_agents\\_work\\bench_engine.py\", line 601, in analyse\n    raise FileNotFoundError(f'no such repository: {repo}')\nFileNotFoundError: no such repository: E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\VOXELIZATION\\GOXEL\\UPSTREAM_CLONE"
+}
