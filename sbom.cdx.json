@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:c5fa7170-6731-5396-a20b-7784f1d8753d",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-09T09:39:07Z",
+    "component": {
+      "type": "application",
+      "name": "GOXEL",
+      "version": "0e0070383c9e",
+      "bom-ref": "pkg:generic/anticloud/GOXEL@0e0070383c9e",
+      "purl": "pkg:generic/anticloud/GOXEL@0e0070383c9e",
+      "licenses": [
+        {
+          "license": {
+            "id": "NOASSERTION"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "0e0070383c9ede24"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/the-anticloud/OPENMRS_CORE.git"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
